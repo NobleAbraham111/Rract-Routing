@@ -1,0 +1,28 @@
+
+
+.about-container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 30px;
+    background-color:  #ffe604;
+    border-radius: 15px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.about-title {
+    font-weight: bold;
+    font-size: 3.5rem;
+    color: #3211c5;
+    margin-bottom: 20px;
+}
+
+.about-description {
+    background-color: #fbf8a3;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 1.1rem;
+    color: #080707;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
