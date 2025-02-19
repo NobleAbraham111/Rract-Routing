@@ -1,7 +1,6 @@
-// src/components/About.jsx
-import React from 'react';
-import './About.css'; // Import the custom CSS for the About page
 
+import React from 'react';
+import './About.css';
 const About = () => {
     return (
         <div className="about-container">
